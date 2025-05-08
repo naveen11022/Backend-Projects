@@ -16,3 +16,5 @@ https://roadmap.sh/projects/todo-list-api
 https://roadmap.sh/projects/expense-tracker-api
 
 https://roadmap.sh/projects/url-shortening-service
+
+https://roadmap.sh/projects/markdown-note-taking-app
